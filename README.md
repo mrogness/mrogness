@@ -1,16 +1,17 @@
-## Hi there 👋
+<center>
+<figure>
+  <img src="img/hkbanner.jpg" alt="Hollwonight Image">
+  <figcaption><sub>(Credit to Team Cherry for the banner image)</sub></figcaption>
+</figure>
 
-<!--
-**mrogness/mrogness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Matthew Rogness
+</center>
 
-Here are some ideas to get you started:
+I am a Junior Computer Science and Mathematics student at Luther College in Decorah, Iowa. I enjoy programming for solving interesting problems and building tangible projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my public projects, and I'm always happy to connect via email or elsewhere.
+
+## Contact info:
+rognma02@luther.edu
+
+LinkedIn: mrogness
