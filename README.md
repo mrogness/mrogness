@@ -7,7 +7,7 @@
 # Matthew Rogness
 </center>
 
-I am a Junior Computer Science and Mathematics student at Luther College in Decorah, Iowa. I enjoy programming for solving interesting problems and building tangible projects.
+I am a Senior Computer Science and Mathematics student at Luther College in Decorah, Iowa. I enjoy programming for solving interesting problems and building tangible projects.
 
 Feel free to check out my public projects, and I'm always happy to connect via email or elsewhere.
 
